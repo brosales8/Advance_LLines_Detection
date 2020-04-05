@@ -1,7 +1,7 @@
 # Advance Lane Lines Detection
 ### Udacity - Self-Driving Car NanoDegree
 
-**Author:** Bryan Rosales
+**Author:** Bryan Rosales<br>
 **Date:** August 17th, 2017
 
 
